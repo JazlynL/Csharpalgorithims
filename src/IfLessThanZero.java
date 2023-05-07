@@ -9,4 +9,14 @@ public class IfLessThanZero {
             return false;
         }
     }
+
+
+    /// remainder problem
+    public class Program
+    {
+        public static int Remainder(int x, int y)
+        {
+            return x%y;
+        }
+    }
 }
